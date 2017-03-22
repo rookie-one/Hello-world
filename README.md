@@ -1,2 +1,2 @@
-# Hello-world
-My first repository!
+Hello!
+I am rookie-one.
